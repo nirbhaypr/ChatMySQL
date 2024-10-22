@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langchain_groq
+langchain_chroma
+langchain_experimental
+pymysql
+chromadb
+streamlit
