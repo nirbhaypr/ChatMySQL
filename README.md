@@ -36,7 +36,7 @@ You can refer to [requirements.txt](requirements.txt) for all the dependencies.
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/nirbhaypr/chat-with-mysql
+   git clone https://github.com/nirbhaypr/ChatMySQL
    cd chat-with-mysql
    ```
 2. **Install the required dependencies**:
